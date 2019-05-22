@@ -7,3 +7,6 @@
 - przeciwnicy po paru uderzeniach przewracają się i znikają
 - możliwe przeszkody do przejścia
 - gra się kończy po przejsciu etapu // kamer podąża za bohaterem ale nie 1 do 1
+
+
+- gracz steruje za pomocą przycisków "a" i "d", w ten sposób chodzi w prawo i w lewo. Ewentualnie dodać można przyscisk "s" do schylenia się i przycisk do skoku
